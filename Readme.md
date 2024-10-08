@@ -1,10 +1,10 @@
 # VFair
 
-This repository provides a PyTorch implementation of the VFair.
+This repository provides a PyTorch implementation of **Towards Harmless Rawlsian Fairness Regardless of Demographic Prior**. 
 
 
 ## Setup
-### Prerequisitess
+### Prerequisites
 ```
 Python and miniconda
 ```
@@ -21,13 +21,13 @@ conda activate vfair
 ```
 
 # Datasets
-The preprocessed datasets can be found in the folders:
+The preprocessed datasets can be found in the following folders:
 
  * ```./data/datasets/compas/```
  * ```./data/datasets/crime/```
  * ```./data/datasets/law_school/```
 
-Due to the memory limitation of supplementary material, Uci Adult, CelebA, AgeDB are not included.
+Due to the memory limitation of supplementary material, Uci Adult, CelebA, and AgeDB are not included.
 
 
 
