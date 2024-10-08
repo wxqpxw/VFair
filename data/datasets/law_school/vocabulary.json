@@ -1,0 +1,19 @@
+{
+  "isPartTime": [
+    "Yes",
+    "No"
+  ],
+  "sex": [
+    "Male",
+    "Female"
+  ],
+  "race": [
+    "White",
+    "Black",
+    "Other"
+  ],
+  "pass_bar": [
+    "Passed",
+    "Failed_or_not_attempted"
+  ]
+}

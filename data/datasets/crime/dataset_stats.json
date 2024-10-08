@@ -1,0 +1,10 @@
+{
+    "sensitive_column_names": [
+        "medIncome",
+        "race",
+        "householdsize",
+        "medFamInc"
+    ],
+    "sensitive_threshold": 0.5,
+    "target_column_name": "pass_bar"
+}
